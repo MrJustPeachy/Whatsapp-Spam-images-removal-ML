@@ -1,0 +1,2 @@
+Need to loop through df again, this time matching the ID to file name
+    Train the image using the text given
